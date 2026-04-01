@@ -3,4 +3,5 @@ langchain-community
 langchain-huggingface
 faiss-cpu
 deep-translator
-sentence-transformer
+sentence-transformers
+protobuf==3.20.3
