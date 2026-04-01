@@ -10,6 +10,7 @@ I used Python ans some AI tools like LangChain and Streamlit. I also used a tran
 
 
 How to use it?
+
 If you want to run this on your laptop:
 1. Download all the files from this Github.
 2. Install the needs by typing:pip install-r requirements.txt.
@@ -17,10 +18,16 @@ If you want to run this on your laptop:
 
 
 My Files:
+
+
 app.py:  This is my main code for the chatbot screen.
+
 ingest.py: I used this to process the medical data.
+
 requirements.txt: This has the list of libraries i used.
+
 vectorstore: This folder stores the information the chatbot uses to answer.
+
 Data: This folder has the medical CSV file.
 
 
