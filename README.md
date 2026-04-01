@@ -36,3 +36,9 @@ Tools i used:
 2. Streamlit(for the website)
 3. LangChain(for AI)
 4. Deep-Translator(for Tamil support)
+
+
+Demo Video:
+https://www.linkedin.com/posts/poorani-m-43288137b_datascience-ai-healthtech-ugcPost-7445136088995901440-aC0t?utm_source=share&utm_medium=member_android&rcm=ACoAAF3sYSYB80P-dLWA9hwi-i5peKBzg-kDlM8
+
+
